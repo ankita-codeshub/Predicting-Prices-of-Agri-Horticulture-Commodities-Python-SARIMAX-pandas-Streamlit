@@ -11,8 +11,11 @@ This project is a Minimum Viable Product (MVP) for predicting the future prices 
 - [Example](#example)
 - [License](#license)
 
-## Technologies Used
+## 🌐 Live Demo
+Try the interactive app here:  
+[![Live Demo]https://cky83pxv5sfngeogdnspgm.streamlit.app/
 
+## Technologies Used
 - Python 3.10+
 - Pandas
 - NumPy
